@@ -27,3 +27,12 @@ The User List App is a Flutter application that displays a list of users from AP
     flutter run
     ```
 
+## Folder Structure
+
+- `lib/`
+  - `blocs/`: Contains the BLoC classes (`user_bloc.dart`, `user_event.dart`, `user_state.dart`).
+  - `repositories/`: Contains the repository class (`user_repository.dart`).
+  - `themes/`: Contains the theme data (`themes.dart`).
+  - `widgets/`: Contains reusable widgets (`user_card.dart`).
+  - `src/`: Contains source files (`user_list_screen.dart`).
+  - `main.dart`: Entry point of the application.
