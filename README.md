@@ -27,6 +27,13 @@ The User List App is a Flutter application that displays a list of users from AP
     flutter run
     ```
 
+## Screenshots
+![Dark Mode](screenshots\dark_mode.png)
+![Light Mode](screenshots\light_mode.png)
+![Search User](screenshots\search_user.png)
+
+
+
 ## Folder Structure
 
 - `lib/`
